@@ -53,6 +53,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>app</finalName>
+		<finalName>springbootMongo</finalName>
 	</build>
 </project>
